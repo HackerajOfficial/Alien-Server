@@ -13,7 +13,7 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
 - Design is only applicable for PC.
 
 ## TODO
-* [ ] Work properly on any Windows language.
+* [ ] Work properly with any Operating System language.
 * [x] Server Run on SSD with High Speed internet connectivity.
 * [ ] Download link file from [VINAFIX](https://vinafix.com/), [TEKNISI INDONESIA](https://teknisi-indonesia.com/) and [BIOS DOWNLOAD](https://www.bios-downloads.com/) .
 
