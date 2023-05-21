@@ -3,7 +3,7 @@
 Link: [https://alien.raaz.info.np/server/](https://www.facebook.com/Hackeraj/)
  
 ## Description
-Alien Server is collection of World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disable BIOS, Schematic Diagram, Boardview, Repair Guide Collection, Onboard RAM Disable, Datasheet, and Softwares. It is codede by [Hackeraj](https://www.facebook.com/Hackeraj/) and [Dibya Joshi](https://www.facebook.com/dibya.joshi.99) .
+Alien Server is collection of World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disable BIOS, Schematic Diagram, Boardview, Repair Guide Collection, Onboard RAM Disable, Datasheet, and Softwares. Coded by [Hackeraj](https://www.facebook.com/Hackeraj/) and [Dibya Joshi](https://www.facebook.com/dibya.joshi.99) .
 
 ## Features
 - Clean User Interface.
