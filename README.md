@@ -11,6 +11,7 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
 ## Limitations
 - ***Works only with English language***
 - Design is only applicable for PC.
+- ***For Downloading File must be use [Internet Download Manager](https://www.internetdownloadmanager.com/) Otherwise Downloaded File can't be extract***
 
 ## TODO
 * [ ] Work properly with any Operating System language.
