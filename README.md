@@ -3,7 +3,7 @@
 Link: [https://alien.raaz.info.np/server/](https://alien.raaz.info.np/server/)
  
 ## Description
-Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disable BIOS, Schematic Diagram, Boardview, Repair Guide, Onboard RAM Disable, Datasheet, and Softwares Collections.
+Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disable BIOS, Schematic Diagram, Boardview, Repair Guide, Onboard RAM Disable, Datasheet, and Software Collections.
 
 ## Features
 - Clean User Interface.
