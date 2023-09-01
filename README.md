@@ -17,7 +17,7 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
 * [ ] Work properly with any Operating System language.
 * [x] Server Run on SSD with High Speed internet connectivity.
 * [x] Each Account Allow only two devices, Remaining all Devices Restrict. 
-* [x] Download link file of [VINAFIX](https://vinafix.com/), [TEKNISI INDONESIA](https://teknisi-indonesia.com/) and [BIOS DOWNLOAD](https://www.bios-downloads.com/) from [Alien Server](https://alien.raaz.info.np/server/) Directly.
+* [x] Download link file of [VINAFIX](https://vinafix.com/), [Repair Lab](https://www.repairlap.com/), [TEKNISI INDONESIA](https://teknisi-indonesia.com/) and [BIOS DOWNLOAD](https://www.bios-downloads.com/) from [Alien Server](https://alien.raaz.info.np/server/) Directly.
 
 # :octocat: Developer
 1. [Hackeraj](https://www.facebook.com/HackerajOfficial/)
