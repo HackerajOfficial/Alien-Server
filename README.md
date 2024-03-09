@@ -50,7 +50,10 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
 
 ## References
 - ***AMITSESetup Decryptor & Unlocker***
+  - [https://www.badcaps.net/forum/showpost.php?p=1050655&postcount=2](https://www.badcaps.net/forum/showpost.php?p=1050655&postcount=2)
+  - [https://www.badcaps.net/forum/showpost.php?p=1050140&postcount=139](https://www.badcaps.net/forum/showpost.php?p=1050140&postcount=139)
 - ***Apple  Decryptor & Unlocker***
+  - [https://www.badcaps.net/forum/troubleshooting-hardware-devices-and-electronics-theory/troubleshooting-laptops-tablets-and-mobile-devices/bios-requests-only/91555-bios-guides-methods-resources-and-tools?postcount=4#post1622423](https://www.badcaps.net/forum/troubleshooting-hardware-devices-and-electronics-theory/troubleshooting-laptops-tablets-and-mobile-devices/bios-requests-only/91555-bios-guides-methods-resources-and-tools?postcount=4#post1622423) 
 
 
 
