@@ -22,8 +22,10 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
   * [x] Offset Filler
   * [x] Offset Extractor
   * [ ] Encrypted PCH/CPU Unlocker
+  * [ ] Discrete to UMA BIOS Patcher
   * [x] [Auto Bypass Apple Macbook MDM Unlock](https://alien.raaz.info.np/server/unlock/skipmdm/) : Credit Goes To: [https://skipmdm.com](https://skipmdm.com)
   * [x] BINx Comparator
+  * [x] [Master Password Generator](https://alien.raaz.info.np/server/unlocker/) Modified By [Hackeraj](https://www.facebook.com/HackerajOfficial) Credit Goes To: [https://bios-pw.org/](https://bios-pw.org/)
   
 
 ## Limitations
