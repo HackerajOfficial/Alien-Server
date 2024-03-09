@@ -1,6 +1,4 @@
-# Alien Sever
-
-Link: [https://alien.raaz.info.np/server/](https://alien.raaz.info.np/server/)
+# Alien Sever : [https://alien.raaz.info.np/server/](https://alien.raaz.info.np/server/)
  
 ## Description
 Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disable BIOS, Schematic Diagram, Boardview, Repair Guide, Onboard RAM Disable, Datasheet, and Software Collections.
@@ -42,6 +40,16 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
 # :octocat: Developer
 1. [Hackeraj](https://www.facebook.com/HackerajOfficial/)
 2. [Dibya Joshi](https://www.facebook.com/dibya.joshi.99)
+
+## Related Tutorials
+### AMITSESetup Decryptor & Unlocker
+  [![AMITSESetup Decryptor & Unlocker](https://img.youtube.com/vi/foQpgeDwkiU/0.jpg)](https://www.youtube.com/watch?v=foQpgeDwkiU&ab_channel=Hackeraj)
+### Apple Decryptor & Unlocker
+
+
+## References
+- ***AMITSESetup Decryptor & Unlocker***
+- ***Apple  Decryptor & Unlocker***
 
 
 
