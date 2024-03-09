@@ -49,13 +49,24 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
 
 
 ## References
+- ***8FC8 Unlocker***
+  - [https://www.badcaps.net/forum/showthread.php?t=125468](https://www.badcaps.net/forum/showthread.php?t=125468)
+
 - ***AMITSESetup Decryptor & Unlocker***
   - [https://www.badcaps.net/forum/showpost.php?p=1050655&postcount=2](https://www.badcaps.net/forum/showpost.php?p=1050655&postcount=2)
   - [https://www.badcaps.net/forum/showpost.php?p=1050140&postcount=139](https://www.badcaps.net/forum/showpost.php?p=1050140&postcount=139)
+  - [https://www.badcaps.net/forum/showthread.php?t=102275](https://www.badcaps.net/forum/showthread.php?t=102275)
 - ***Apple  Serial Editor & Unlocker***
-  - [https://www.badcaps.net/forum/troubleshooting-hardware-devices-and-electronics-theory/troubleshooting-laptops-tablets-and-mobile-devices/bios-requests-only/91555-bios-guides-methods-resources-and-tools?postcount=4#post1622423](https://www.badcaps.net/forum/troubleshooting-hardware-devices-and-electronics-theory/troubleshooting-laptops-tablets-and-mobile-devices/bios-requests-only/91555-bios-guides-methods-resources-and-tools?postcount=4#post1622423) 
-
-
+  - [https://www.badcaps.net/forum/troubleshooting-hardware-devices-and-electronics-theory/troubleshooting-laptops-tablets-and-mobile-devices/bios-requests-only/91555-bios-guides-methods-resources-and-tools?postcount=4#post1622423](https://www.badcaps.net/forum/troubleshooting-hardware-devices-and-electronics-theory/troubleshooting-laptops-tablets-and-mobile-devices/bios-requests-only/91555-bios-guides-methods-resources-and-tools?postcount=4#post1622423)
+ 
+- ***Microsoft Surface Unlocker***
+  -  [https://www.badcaps.net/forum/showpost.php?p=1050140&postcount=139](https://www.badcaps.net/forum/showpost.php?p=1050140&postcount=139)
+ 
+- ***Lenovo Thinkpad Unlocker***
+  - [https://www.badcaps.net/forum/showthread.php?t=111439](https://www.badcaps.net/forum/showthread.php?t=111439)
+  - [https://www.badcaps.net/forum/showpost.php?p=1062024&postcount=19](https://www.badcaps.net/forum/showpost.php?p=1062024&postcount=19)
+  - [https://www.badcaps.net/forum/showthread.php?t=117284](https://www.badcaps.net/forum/showthread.php?t=117284)
+ 
 
 [Facebook](https://www.facebook.com/HackerajOfficial/)
 [Twitter](https://twitter.com/Hackeraj_np/)
