@@ -47,9 +47,7 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
 
 
 ## References
-- ***8FC8 Unlocker***
-  - [https://www.badcaps.net/forum/showthread.php?t=125468](https://www.badcaps.net/forum/showthread.php?t=125468)
-
+- [8FC8 Unlocker](https://github.com/HackerajOfficial/Alien-Server/blob/main/8FC8%20Unlocker.md)
 - [AMITSESetup Decryptor & Unlocker](https://github.com/HackerajOfficial/Alien-Server/blob/main/AMITSESetup.md/)
 - ***Apple  Serial Editor & Unlocker***
   - [https://www.badcaps.net/forum/troubleshooting-hardware-devices-and-electronics-theory/troubleshooting-laptops-tablets-and-mobile-devices/bios-requests-only/91555-bios-guides-methods-resources-and-tools?postcount=4#post1622423](https://www.badcaps.net/forum/troubleshooting-hardware-devices-and-electronics-theory/troubleshooting-laptops-tablets-and-mobile-devices/bios-requests-only/91555-bios-guides-methods-resources-and-tools?postcount=4#post1622423)
