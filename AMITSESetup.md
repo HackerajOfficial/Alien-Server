@@ -28,6 +28,7 @@ AMITSESetup Decryptor & Unlocker Coded By Hackeraj. It supports Boot Password, a
 - [https://www.badcaps.net/forum/showpost.php?p=1050655&postcount=2](https://www.badcaps.net/forum/showpost.php?p=1050655&postcount=2)
 - [https://www.badcaps.net/forum/showpost.php?p=1050140&postcount=139](https://www.badcaps.net/forum/showpost.php?p=1050140&postcount=139)
 - [https://www.badcaps.net/forum/showthread.php?t=102275](https://www.badcaps.net/forum/showthread.php?t=102275)
+- [https://www.youtube.com/watch?v=8Me73q1quX0](https://www.youtube.com/watch?v=8Me73q1quX0)
 
 [Facebook](https://www.facebook.com/HackerajOfficial/)
 [Instagram](https://www.instagram.com/hackeraj/)
