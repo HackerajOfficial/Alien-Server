@@ -1,7 +1,7 @@
 # Alien Sever : [https://alien.raaz.info.np/server/](https://alien.raaz.info.np/server/)
  
 ## Description
-Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disable BIOS, Schematic Diagram, Boardview, Repair Guide, Onboard RAM Disable, Datasheet, and Software Collections.
+Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disable BIOS, Schematic Diagram, Boardview, Repair Guide, Onboard RAM Disable, Datasheet, and Software Collection.
 
 ## Features
 - ***Clean User Interface.***
@@ -42,8 +42,6 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
 2. [Dibya Joshi](https://www.facebook.com/dibya.joshi.99)
 
 ## Related Tutorials
-### AMITSESetup Decryptor & Unlocker
-  [![AMITSESetup Decryptor & Unlocker](https://img.youtube.com/vi/foQpgeDwkiU/0.jpg)](https://www.youtube.com/watch?v=foQpgeDwkiU&ab_channel=Hackeraj)
 ### Apple Decryptor & Unlocker
   [![Apple Macbook](https://img.youtube.com/vi/poA8HByYqTM/0.jpg)](https://www.youtube.com/watch?v=poA8HByYqTM&ab_channel=piernov)
 
@@ -52,10 +50,7 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
 - ***8FC8 Unlocker***
   - [https://www.badcaps.net/forum/showthread.php?t=125468](https://www.badcaps.net/forum/showthread.php?t=125468)
 
-- ***AMITSESetup Decryptor & Unlocker***
-  - [https://www.badcaps.net/forum/showpost.php?p=1050655&postcount=2](https://www.badcaps.net/forum/showpost.php?p=1050655&postcount=2)
-  - [https://www.badcaps.net/forum/showpost.php?p=1050140&postcount=139](https://www.badcaps.net/forum/showpost.php?p=1050140&postcount=139)
-  - [https://www.badcaps.net/forum/showthread.php?t=102275](https://www.badcaps.net/forum/showthread.php?t=102275)
+- [AMITSESetup Decryptor & Unlocker](https://github.com/HackerajOfficial/Alien-Server/blob/main/AMITSESetup.md/)
 - ***Apple  Serial Editor & Unlocker***
   - [https://www.badcaps.net/forum/troubleshooting-hardware-devices-and-electronics-theory/troubleshooting-laptops-tablets-and-mobile-devices/bios-requests-only/91555-bios-guides-methods-resources-and-tools?postcount=4#post1622423](https://www.badcaps.net/forum/troubleshooting-hardware-devices-and-electronics-theory/troubleshooting-laptops-tablets-and-mobile-devices/bios-requests-only/91555-bios-guides-methods-resources-and-tools?postcount=4#post1622423)
  
