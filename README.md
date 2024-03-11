@@ -46,11 +46,9 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
 - [AMITSESetup Decryptor & Unlocker](https://github.com/HackerajOfficial/Alien-Server/blob/main/AMITSESetup.md/)
 - [Apple Serial Editor & Unlocker](https://github.com/HackerajOfficial/Alien-Server/blob/main/Apple%20Serial%20Editor%20%26%20Unlocker.md)
 - [Microsoft Surface Unlocker](https://github.com/HackerajOfficial/Alien-Server/blob/main/Microsoft%20Surface%20Unlocker.md)
- 
-- ***Lenovo Thinkpad Unlocker***
-  - [https://www.badcaps.net/forum/showthread.php?t=111439](https://www.badcaps.net/forum/showthread.php?t=111439)
-  - [https://www.badcaps.net/forum/showpost.php?p=1062024&postcount=19](https://www.badcaps.net/forum/showpost.php?p=1062024&postcount=19)
-  - [https://www.badcaps.net/forum/showthread.php?t=117284](https://www.badcaps.net/forum/showthread.php?t=117284)
+- [Chromebook Unlocker](https://github.com/HackerajOfficial/Alien-Server/blob/main/Chromebook%20Unlocker.md)
+- [Lenovo Unlocker](https://github.com/HackerajOfficial/Alien-Server/blob/main/Lenovo%20Unlocker.md)
+  
  
 
 [Facebook](https://www.facebook.com/HackerajOfficial/)
