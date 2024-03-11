@@ -41,16 +41,10 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
 1. [Hackeraj](https://www.facebook.com/HackerajOfficial/)
 2. [Dibya Joshi](https://www.facebook.com/dibya.joshi.99)
 
-## Related Tutorials
-### Apple Decryptor & Unlocker
-  [![Apple Macbook](https://img.youtube.com/vi/poA8HByYqTM/0.jpg)](https://www.youtube.com/watch?v=poA8HByYqTM&ab_channel=piernov)
-
-
 ## References
 - [8FC8 Unlocker](https://github.com/HackerajOfficial/Alien-Server/blob/main/8FC8%20Unlocker.md)
 - [AMITSESetup Decryptor & Unlocker](https://github.com/HackerajOfficial/Alien-Server/blob/main/AMITSESetup.md/)
-- ***Apple  Serial Editor & Unlocker***
-  - [https://www.badcaps.net/forum/troubleshooting-hardware-devices-and-electronics-theory/troubleshooting-laptops-tablets-and-mobile-devices/bios-requests-only/91555-bios-guides-methods-resources-and-tools?postcount=4#post1622423](https://www.badcaps.net/forum/troubleshooting-hardware-devices-and-electronics-theory/troubleshooting-laptops-tablets-and-mobile-devices/bios-requests-only/91555-bios-guides-methods-resources-and-tools?postcount=4#post1622423)
+- [Apple Serial Editor & Unlocker](https://github.com/HackerajOfficial/Alien-Server/blob/main/Apple%20Serial%20Editor%20%26%20Unlocker.md)
  
 - ***Microsoft Surface Unlocker***
   -  [https://www.badcaps.net/forum/showpost.php?p=1050140&postcount=139](https://www.badcaps.net/forum/showpost.php?p=1050140&postcount=139)
