@@ -14,6 +14,7 @@ Lenovo Unlocker Coded By Hackeraj. It has capability to unlock including EC 1KB 
 # :octocat: Developer
 1. [Hackeraj](https://www.facebook.com/HackerajOfficial/)
 2. [Dibya Joshi](https://www.facebook.com/dibya.joshi.99)
+3. [Umesh Gupta](https://www.facebook.com/umeshkumarguptanp/)
 
 ## Lenovo Unlocker Related Tutorials
 
