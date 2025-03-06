@@ -7,7 +7,14 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
 - ***Clean User Interface.***
 - ***BIOS Firmware Security Editing, Patching, Decrypting, and Unlocking Tool.***
   * [x] [8FC8 Unlocker](https://alien.raaz.info.np/server/unlock/8fc8/)
+    * [x] Normal FCFD Unlocking
+    * [x] Alienware, Precision Unlocking
+    * [x] Dell latest Unlocking
   * [x] [Onboard RAM Disable](https://alien.raaz.info.np/server/onboard_ram_disable/)
+    * [x] DDR3L
+    * [x] DDR3
+    * [x] DDR4
+    * [ ] DDR5
   * [x] [AMITSESetup Decryptor & Unlocker](https://alien.raaz.info.np/server/unlock/AMITSESetup/)
   * [x] [Apple Serial Editor & Unlocker](https://alien.raaz.info.np/server/unlock/apple/)
   * [x] [Chromebook Unlocker](https://alien.raaz.info.np/server/unlock/chromebook/)
@@ -39,7 +46,8 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
 
 # :octocat: Developer
 1. [Hackeraj](https://www.facebook.com/HackerajOfficial/)
-2. [Dibya Joshi](https://www.facebook.com/dibya.joshi.99)
+2. [Umesh Gupta](https://www.facebook.com/umeshkumarguptanp)
+3. [Dibya Joshi](https://www.facebook.com/dibya.joshi.99)
 
 ## References
 - [8FC8 Unlocker](https://github.com/HackerajOfficial/Alien-Server/blob/main/8FC8%20Unlocker.md)
