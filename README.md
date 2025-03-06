@@ -6,31 +6,46 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
 ## Features
 - ***Clean User Interface.***
 - ***BIOS Firmware Security Editing, Patching, Decrypting, and Unlocking Tool.***
-  * [x] [8FC8 Unlocker](https://alien.raaz.info.np/server/unlock/8fc8/)
-    * [x] Normal FCFD Unlocking
-    * [x] Alienware, Precision Unlocking
-    * [x] Dell latest Unlocking
+- ****ALL****
   * [x] [Onboard RAM Disable](https://alien.raaz.info.np/server/onboard_ram_disable/)
     * [x] DDR3L
     * [x] DDR3
     * [x] DDR4
     * [ ] DDR5
   * [x] [AMITSESetup Decryptor & Unlocker](https://alien.raaz.info.np/server/unlock/AMITSESetup/)
-  * [x] [Apple Serial Editor & Unlocker](https://alien.raaz.info.np/server/unlock/apple/)
-  * [x] [Chromebook Unlocker](https://alien.raaz.info.np/server/unlock/chromebook/)
-  * [x] [Microsoft Surface Unlocker](https://alien.raaz.info.np/server/unlock/surface/)
-  * [ ] [Lenovo Unlocker](https://alien.raaz.info.np/server/unlock/lenovo/)
-    * [x] EC 1KB/128KB/256KB Password Remove
-    * [ ] Lenovo Wireless Unlocking
-    * [ ] Lenovo Patcher
-  * [ ] [HP Unlocker](https://alien.raaz.info.np/server/unlock/hp/)
   * [x] Offset Filler
   * [x] Offset Extractor
   * [ ] Encrypted PCH/CPU Unlocker
   * [ ] Discrete to UMA BIOS Patcher
-  * [x] [Auto Bypass Apple Macbook MDM Unlock](https://alien.raaz.info.np/server/unlock/skipmdm/) : Credit Goes To: [https://skipmdm.com](https://skipmdm.com)
   * [x] BINx Comparator
   * [x] [Master Password Generator](https://alien.raaz.info.np/server/unlocker/) Modified By [Hackeraj](https://www.facebook.com/HackerajOfficial) Credit Goes To: [https://bios-pw.org/](https://bios-pw.org/)
+- ****DELL****
+  * [x] [8FC8 Unlocker](https://alien.raaz.info.np/server/unlock/8fc8/)
+    * [x] Normal FCFD Unlocking
+    * [x] Alienware, Precision Unlocking
+    * [x] Dell latest Unlocking
+  * [x] ST_Fix
+  * [x] Logo Hang / Freeze
+  * [x] TPM
+ - ****APPLE****
+  * [x] [Apple Serial Editor & Unlocker](https://alien.raaz.info.np/server/unlock/apple/)
+  * [x] [Auto Bypass Apple Macbook MDM Unlock](https://alien.raaz.info.np/server/unlock/skipmdm/) : Credit Goes To: [https://skipmdm.com](https://skipmdm.com)
+ - ****Chromebook****
+  * [x] [Chromebook Unlocker](https://alien.raaz.info.np/server/unlock/chromebook/)
+- ****Microsoft Surface****
+  * [x] [Microsoft Surface Unlocker](https://alien.raaz.info.np/server/unlock/surface/)
+- ****Lenovo****
+  * [ ] [Lenovo Unlocker](https://alien.raaz.info.np/server/unlock/lenovo/)
+    * [x] EC 1KB/128KB/256KB Password Remove
+    * [ ] Lenovo Wireless Unlocking
+    * [ ] Lenovo Patcher
+ - ****HP****
+  * [ ] [HP Unlocker](https://alien.raaz.info.np/server/unlock/hp/)
+    * [x] G1, G2, G3, G4, G5, G6, G7, G8
+    * [ ] G9, G10
+    * [ ] G11
+ 
+ 
   
 
 ## Limitations
