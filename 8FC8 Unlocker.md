@@ -10,10 +10,13 @@ Dell 8FC8 Unlocker Coded By Hackeraj. It supports till now including alienware, 
     - Some of Model can't unlock 8FC8 BIOS Password with FCFD method. So, we use 8FC8 Master unlock They are;
       * [x] Alienware
       * [x] Precision
+ - ***Latest Dell Unlock***
+    - Latest Laptop can't unlock 8FC8 BIOS Password with FCFD method, and Master Method So, we can use Latest Dell Unlock;
 
 # :octocat: Developer
 1. [Hackeraj](https://www.facebook.com/HackerajOfficial/)
 2. [Dibya Joshi](https://www.facebook.com/dibya.joshi.99)
+3. [Umesh Gupta](https://www.facebook.com/umeshkumarguptanp/)
 
 ## 8FC8 Unlocker Related Tutorials
   
