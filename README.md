@@ -67,6 +67,10 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
 * [x] Each Account Allow only two devices, Remaining all Devices Restrict. 
 * [x] Download link file of [VINAFIX](https://vinafix.com/), [REPAIR LAB](https://www.repairlap.com/), [TEKNISI INDONESIA](https://teknisi-indonesia.com/) and [BIOS DOWNLOAD](https://www.bios-downloads.com/) from [Alien Server](https://alien.raaz.info.np/server/) Directly.
 
+## Contact
+  [RAAZ - WhatsApp: +977-9822230001](https://wa.me/9779822230001?text=)
+
+
 # :octocat: Developer
 1. [Hackeraj](https://www.facebook.com/HackerajOfficial/)
 2. [Umesh Gupta](https://www.facebook.com/umeshkumarguptanp)
