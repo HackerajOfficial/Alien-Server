@@ -28,22 +28,25 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
   * [x] Logo Hang / Freeze
   * [x] TPM
  - ****APPLE****
-  * [x] [Apple Serial Editor & Unlocker](https://alien.raaz.info.np/server/unlock/apple/)
-  * [x] [Auto Bypass Apple Macbook MDM Unlock](https://alien.raaz.info.np/server/unlock/skipmdm/) : Credit Goes To: [https://skipmdm.com](https://skipmdm.com)
+    * [x] [Apple Serial Editor & Unlocker](https://alien.raaz.info.np/server/unlock/apple/)
+    * [x] [Auto Bypass Apple Macbook MDM Unlock](https://alien.raaz.info.np/server/unlock/skipmdm/) : Credit Goes To: [https://skipmdm.com](https://skipmdm.com)
  - ****Chromebook****
-  * [x] [Chromebook Unlocker](https://alien.raaz.info.np/server/unlock/chromebook/)
+    * [x] [Chromebook Unlocker](https://alien.raaz.info.np/server/unlock/chromebook/)
 - ****Microsoft Surface****
-  * [x] [Microsoft Surface Unlocker](https://alien.raaz.info.np/server/unlock/surface/)
+    * [x] [Microsoft Surface Unlocker](https://alien.raaz.info.np/server/unlock/surface/)
 - ****Lenovo****
-  * [ ] [Lenovo Unlocker](https://alien.raaz.info.np/server/unlock/lenovo/)
-    * [x] EC 1KB/128KB/256KB Password Remove
-    * [ ] Lenovo Wireless Unlocking
-    * [ ] Lenovo Patcher
+    * [ ] [Lenovo Unlocker](https://alien.raaz.info.np/server/unlock/lenovo/)
+      * [x] EC 1KB/128KB/256KB Password Remove
+      * [ ] Lenovo Wireless Unlocking
+      * [ ] Lenovo Patcher
 - ****HP****
-  * [ ] [HP Unlocker](https://alien.raaz.info.np/server/unlock/hp/)
-    * [x] G1, G2, G3, G4, G5, G6, G7, G8
-    * [ ] G9, G10
-    * [ ] G11
+    * [ ] [HP Unlocker](https://alien.raaz.info.np/server/unlock/hp/)
+      * [x] G1, G2, G3, G4, G5, G6, G7, G8
+      * [ ] G9, G10
+      * [ ] G11
+    * [ ] Disable Absolute State
+    * [ ] END Point Security
+    * [ ] DMI
  
  
   
