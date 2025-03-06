@@ -5,7 +5,7 @@ Lenovo Unlocker Coded By Hackeraj. It has capability to unlock including EC 1KB 
 
 ## Features
 * [ ] Lenovo BIOS Patcher
-* [ ] EC BIOS
+* [x] EC BIOS
     * [x] 1KB
     * [x] 128KB
     * [x] 256KB
