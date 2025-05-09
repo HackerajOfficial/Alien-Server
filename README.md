@@ -23,6 +23,8 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
   * [ ] Encrypted PCH/CPU Unlocker
   * [ ] Discrete to UMA BIOS Patcher
   * [x] BINx Comparator
+  * [x] DifferTool
+  * [x] BINMerger  
   * [x] [Master Password Generator](https://alien.raaz.info.np/server/unlocker/) Modified By [Hackeraj](https://www.facebook.com/HackerajOfficial) Credit Goes To: [https://bios-pw.org/](https://bios-pw.org/)
 - ****DELL****
   * [x] [8FC8 Unlocker](https://alien.raaz.info.np/server/unlock/8fc8/)
@@ -47,7 +49,7 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
 - ****HP****
     * [ ] [HP Unlocker](https://alien.raaz.info.np/server/unlock/hp/)
       * [x] G1, G2, G3, G4, G5, G6, G7, G8
-      * [ ] G9, G10
+      * [x] G9, G10
       * [ ] G11
     * [ ] Disable Absolute State
     * [ ] END Point Security
