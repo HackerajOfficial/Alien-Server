@@ -41,6 +41,8 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
     * [x] [Chromebook Unlocker](https://alien.raaz.info.np/server/unlock/chromebook/)
 - ****Microsoft Surface****
     * [x] [Microsoft Surface Unlocker](https://alien.raaz.info.np/server/unlock/surface/)
+- ****ACER****
+    * [x] ACER Unlocking
 - ****Lenovo****
     * [ ] [Lenovo Unlocker](https://alien.raaz.info.np/server/unlock/lenovo/)
       * [x] EC 1KB/128KB/256KB Password Remove
