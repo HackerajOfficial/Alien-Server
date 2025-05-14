@@ -45,13 +45,13 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
 - ****Microsoft Surface****
     * [x] [Microsoft Surface Unlocker](https://alien.raaz.info.np/server/unlock/surface/)
 - ****ACER****
-    * [x] ACER Unlocking
+    * [x] Latest Acer Gaming laptop Unlocking
 - ****Lenovo****
     * [ ] [Lenovo Unlocker](https://alien.raaz.info.np/server/unlock/lenovo/)
       * [x] EC 1KB/128KB/256KB Password Remove
       * [ ] Lenovo Wireless Unlocking
       * [ ] Lenovo Patcher
-      * [ ] Lenovo DMI Copier
+     * [ ] Lenovo DMI Copier
 - ****HP****
     * [ ] [HP Unlocker](https://alien.raaz.info.np/server/unlock/hp/)
       * [x] G1, G2, G3, G4, G5, G6, G7, G8
