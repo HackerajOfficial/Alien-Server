@@ -12,10 +12,13 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
     * [x] DDR3
     * [x] DDR4
     * [ ] DDR5
-  * [ ] CLEAN
+  * [ ] ME Cleaner
     * [ ] CSTXE CLEAN
     * [ ] ME CLEAN
     * [ ] CSME CLEAN
+  * [ ] Master Cleaner
+    * [ ] ME/CSME Clean
+    * [ ] NVRAM Clear
   * [ ] NVRAM (RESET, BACKUP, RESTORE)
   * [x] [AMITSESetup Decryptor & Unlocker](https://alien.raaz.info.np/server/unlock/AMITSESetup/)
   * [x] Offset Filler
@@ -48,6 +51,7 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
       * [x] EC 1KB/128KB/256KB Password Remove
       * [ ] Lenovo Wireless Unlocking
       * [ ] Lenovo Patcher
+      * [ ] Lenovo DMI Copier
 - ****HP****
     * [ ] [HP Unlocker](https://alien.raaz.info.np/server/unlock/hp/)
       * [x] G1, G2, G3, G4, G5, G6, G7, G8
@@ -55,7 +59,9 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
       * [ ] G11
     * [ ] Disable Absolute State
     * [ ] END Point Security
-    * [ ] DMI
+    * [ ] DMI Editor
+    * [ ] AMD DMI Copier
+    * [ ] Intel DMI Copier
  
  
   
