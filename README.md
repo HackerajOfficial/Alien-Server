@@ -12,13 +12,12 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
     * [x] DDR3
     * [x] DDR4
     * [ ] DDR5
-  * [ ] ME Cleaner
+  * [ ] Master Cleaner
     * [ ] CSTXE CLEAN
     * [ ] ME CLEAN
     * [ ] CSME CLEAN
-  * [ ] Master Cleaner
-    * [ ] ME/CSME Clean
     * [ ] NVRAM Clear
+    * [ ] PHCM Clear
   * [ ] NVRAM (RESET, BACKUP, RESTORE)
   * [x] [AMITSESetup Decryptor & Unlocker](https://alien.raaz.info.np/server/unlock/AMITSESetup/)
   * [x] Offset Filler
