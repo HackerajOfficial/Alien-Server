@@ -31,6 +31,8 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
   * [x] DifferTool
   * [x] BINMerger  
   * [x] [Master Password Generator](https://alien.raaz.info.np/server/unlocker/) Modified By [Hackeraj](https://www.facebook.com/HackerajOfficial) Credit Goes To: [https://bios-pw.org/](https://bios-pw.org/)
+  * [ ] Insyde BIOS Extractor
+  * [ ] Master Extractor
 - ****DELL****
   * [x] [8FC8 Unlocker](https://alien.raaz.info.np/server/unlock/8fc8/)
     * [x] Normal FCFD Unlocking
@@ -41,19 +43,33 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
   * [x] TPM
  - ****APPLE****
     * [x] [Apple Serial Editor & Unlocker](https://alien.raaz.info.np/server/unlock/apple/)
+      * [x] FYSY Unlock (2011-2017)
+      * [x] T1 Serial Editor
+      * [x] T2 Serial Editor
+      * [x] CRC32 Security Fixed
  - ****Chromebook****
     * [x] [Chromebook Unlocker](https://alien.raaz.info.np/server/unlock/chromebook/)
+      * [x] Deactive devmode
+      * [x] Deactive enrollment
+      * [x] first_active_omaha_ping_sent
+      * [x] fix stable_device_secret
 - ****Microsoft Surface****
     * [x] [Microsoft Surface Unlocker](https://alien.raaz.info.np/server/unlock/surface/)
+      * [x] Unlock - AMISESetup Unlock
+      * [x] Absolute Computerance Disable 
 - ****ACER****
     * [x] Latest Acer Gaming laptop Unlocking
 - ****Lenovo****
     * [ ] [Lenovo Unlocker](https://alien.raaz.info.np/server/unlock/lenovo/)
-      * [x] EC 1KB/128KB/256KB Password Remove
+      * [x] EC Password Unlock
+        * [x] 1KB
+        * [x] 128KB
+        * [x] 256KB
       * [ ] Lenovo Wireless Unlocking
       * [ ] Lenovo Patcher
      * [x] LENV DMI Copier
      * [ ] Lenovo DMI Encryt / Decrypt
+     * [ ] LENV DMI Editor
 - ****HP****
     * [ ] [HP Unlocker](https://alien.raaz.info.np/server/unlock/hp/)
       * [x] G1, G2, G3, G4, G5, G6, G7, G8
