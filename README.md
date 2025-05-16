@@ -61,7 +61,7 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
   * [x] TPM
  - ****APPLE****
     * [x] [Apple Serial Editor & Unlocker](https://alien.raaz.info.np/server/unlock/apple/)
-      * [x] FYSY Unlock (2011-2017)
+      * [x] FSYs Unlock (2011-2017)
       * [x] T1 Serial Editor
       * [x] T2 Serial Editor
       * [x] CRC32 Security Fixed
