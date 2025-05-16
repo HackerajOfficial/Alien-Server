@@ -73,6 +73,18 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
 - ****Microsoft Surface****
     * [x] [Microsoft Surface Unlocker](https://alien.raaz.info.np/server/unlock/surface/)
       * [x] Unlock - AMISESetup Unlock
+        * [ ] Decrypt
+          * [x] Surface Pro 1
+          * [x] Surface Pro 2
+          * [x] surface pro 3
+        * [x] Unlock 
+          * [x] Surface Pro 4
+          * [x] Surface Pro 5
+          * [x] Surface Pro 6
+          * [x] Surface Pro 7
+          * [x] Surface Pro 8
+          * [x] Surface Pro 9
+          * [x] Surface Pro 10
       * [x] Absolute Computerance Disable 
 - ****ACER****
     * [x] Latest Acer Gaming laptop Unlocking
