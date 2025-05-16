@@ -53,7 +53,8 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
       * [x] EC 1KB/128KB/256KB Password Remove
       * [ ] Lenovo Wireless Unlocking
       * [ ] Lenovo Patcher
-     * [ ] Lenovo DMI Copier
+     * [x] LENV DMI Copier
+     * [ ] Lenovo DMI Encryt / Decrypt
 - ****HP****
     * [ ] [HP Unlocker](https://alien.raaz.info.np/server/unlock/hp/)
       * [x] G1, G2, G3, G4, G5, G6, G7, G8
