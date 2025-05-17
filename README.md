@@ -58,8 +58,9 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
   * [x] Logo Hang / Freeze
   * [x] TPM
  - ****APPLE****
+   * [x] [2011 and older](https://github.com/HackerajOfficial/Alien-Server/blob/main/apple%202011%20and%20older%20unlock)
     * [x] [Apple Serial Editor & Unlocker](https://alien.raaz.info.np/server/unlock/apple/)
-      * [x] FSYs Unlock (2011-2017)
+      * [x] $SVS Unlock (2011-2017)
       * [x] T1 Serial Editor
       * [x] T2 Serial Editor
       * [x] CRC32 Security Fixed
