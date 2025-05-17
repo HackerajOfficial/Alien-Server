@@ -6,48 +6,6 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
 ## Features
 - ***Clean User Interface.***
 - ***BIOS Firmware Security Editing, Patching, Decrypting, and Unlocking Tool.***
-- ****ALL****
-  * [x] [Onboard RAM Disable](https://alien.raaz.info.np/server/onboard_ram_disable/)
-    * [x] DDR3L
-    * [x] DDR3
-    * [x] DDR4
-    * [ ] DDR5
-  * [ ] Master Cleaner
-    * [ ] ME CLEAN
-      * [ ] TXE 1
-      * [ ] TXE 2
-      * [ ] CSTXE 3
-      * [ ] CSTXE 4
-      * [ ] ME 6
-      * [ ] ME7
-      * [ ] ME 8
-      * [ ] ME 9
-      * [ ] ME 10
-      * [ ] CSME 11
-      * [ ] CSME 12
-      * [ ] CSME 13
-      * [ ] CSME 14
-      * [x] CSME 15
-      * [x] CSME 16
-      * [x] CSME 18
-      * [x] CSME 19
-      * [ ] CSME 20
-    * [ ] NVRAM Clear
-    * [ ] PHCM Clear
-  * [ ] NVRAM
-    * [ ] Clear
-    * [ ] Backup
-    * [ ] Restore
-  * [x] [AMITSESetup Decryptor & Unlocker](https://alien.raaz.info.np/server/unlock/AMITSESetup/)
-  * [x] RSA Signature Injector
-  * [ ] Encrypted PCH/CPU Unlocker
-  * [ ] Discrete to UMA BIOS Patcher
-  * [x] BINx Comparator
-  * [x] DifferTool
-  * [x] BINMerger  
-  * [x] [Master Password Generator](https://alien.raaz.info.np/server/unlocker/) Modified By [Hackeraj](https://www.facebook.com/HackerajOfficial) Credit Goes To: [https://bios-pw.org/](https://bios-pw.org/)
-  * [ ] Insyde BIOS Extractor
-  * [ ] Master Extractor
 - ****DELL****
   * [x] [8FC8 Unlocker](https://alien.raaz.info.np/server/unlock/8fc8/)
     * [x] Normal FCFD Unlocking
@@ -108,8 +66,48 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
     * [ ] DMI Editor
     * [ ] AMD DMI Copier
     * [ ] Intel DMI Copier
- 
- 
+ - ****ALL****
+  * [x] [Onboard RAM Disable](https://alien.raaz.info.np/server/onboard_ram_disable/)
+    * [x] DDR3L
+    * [x] DDR3
+    * [x] DDR4
+    * [ ] DDR5
+  * [ ] Master Cleaner
+    * [ ] ME CLEAN
+      * [ ] TXE 1
+      * [ ] TXE 2
+      * [ ] CSTXE 3
+      * [ ] CSTXE 4
+      * [ ] ME 6
+      * [ ] ME7
+      * [ ] ME 8
+      * [ ] ME 9
+      * [ ] ME 10
+      * [ ] CSME 11
+      * [ ] CSME 12
+      * [ ] CSME 13
+      * [ ] CSME 14
+      * [x] CSME 15
+      * [x] CSME 16
+      * [x] CSME 18
+      * [x] CSME 19
+      * [ ] CSME 20
+    * [ ] NVRAM Clear
+    * [ ] PHCM Clear
+  * [ ] NVRAM
+    * [ ] Clear
+    * [ ] Backup
+    * [ ] Restore
+  * [x] [AMITSESetup Decryptor & Unlocker](https://alien.raaz.info.np/server/unlock/AMITSESetup/)
+  * [x] RSA Signature Injector
+  * [ ] Encrypted PCH/CPU Unlocker
+  * [ ] Discrete to UMA BIOS Patcher
+  * [x] BINx Comparator
+  * [x] DifferTool
+  * [x] BINMerger  
+  * [x] [Master Password Generator](https://alien.raaz.info.np/server/unlocker/) Modified By [Hackeraj](https://www.facebook.com/HackerajOfficial) Credit Goes To: [https://bios-pw.org/](https://bios-pw.org/)
+  * [ ] Insyde BIOS Extractor
+  * [ ] Master Extractor
   
 
 ## Limitations
