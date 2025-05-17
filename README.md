@@ -6,6 +6,21 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
 ## Features
 - ***Clean User Interface.***
 - ***BIOS Firmware Security Editing, Patching, Decrypting, and Unlocking Tool.***
+- ****APPLE****
+   * [x] [2011 and older](https://github.com/HackerajOfficial/Alien-Server/blob/main/apple%202011%20and%20older%20unlock)
+    * [x] [Apple Serial Editor & Unlocker](https://alien.raaz.info.np/server/unlock/apple/)
+      * [x] $SVS Unlock (2011-2017)
+      * [x] T1 Serial Editor
+      * [x] T2 Serial Editor
+      * [x] CRC32 Security Fixed
+ - ****ACER****
+    * [x] Latest Acer Gaming laptop Unlocking
+ - ****Chromebook****
+    * [x] [Chromebook Unlocker](https://alien.raaz.info.np/server/unlock/chromebook/)
+      * [x] Deactive devmode
+      * [x] Deactive enrollment
+      * [x] first_active_omaha_ping_sent
+      * [x] fix stable_device_secret
 - ****DELL****
   * [x] [8FC8 Unlocker](https://alien.raaz.info.np/server/unlock/8fc8/)
     * [x] Normal FCFD Unlocking
@@ -14,19 +29,6 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
   * [x] ST_Fix
   * [x] Logo Hang / Freeze
   * [x] TPM
- - ****APPLE****
-   * [x] [2011 and older](https://github.com/HackerajOfficial/Alien-Server/blob/main/apple%202011%20and%20older%20unlock)
-    * [x] [Apple Serial Editor & Unlocker](https://alien.raaz.info.np/server/unlock/apple/)
-      * [x] $SVS Unlock (2011-2017)
-      * [x] T1 Serial Editor
-      * [x] T2 Serial Editor
-      * [x] CRC32 Security Fixed
- - ****Chromebook****
-    * [x] [Chromebook Unlocker](https://alien.raaz.info.np/server/unlock/chromebook/)
-      * [x] Deactive devmode
-      * [x] Deactive enrollment
-      * [x] first_active_omaha_ping_sent
-      * [x] fix stable_device_secret
 - ****Microsoft Surface****
     * [x] [Microsoft Surface Unlocker](https://alien.raaz.info.np/server/unlock/surface/)
       * [x] Unlock - AMISESetup Unlock
@@ -43,8 +45,6 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
           * [x] Surface Pro 9
           * [x] Surface Pro 10
       * [x] Absolute Computerance Disable 
-- ****ACER****
-    * [x] Latest Acer Gaming laptop Unlocking
 - ****Lenovo****
     * [ ] [Lenovo Unlocker](https://alien.raaz.info.np/server/unlock/lenovo/)
       * [x] EC Password Unlock
@@ -66,7 +66,7 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
     * [ ] DMI Editor
     * [ ] AMD DMI Copier
     * [ ] Intel DMI Copier
- - ****ALL****
+- ****ALL****
   * [x] [Onboard RAM Disable](https://alien.raaz.info.np/server/onboard_ram_disable/)
     * [x] DDR3L
     * [x] DDR3
@@ -100,14 +100,14 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
     * [ ] Restore
   * [x] [AMITSESetup Decryptor & Unlocker](https://alien.raaz.info.np/server/unlock/AMITSESetup/)
   * [x] RSA Signature Injector
-  * [ ] Encrypted PCH/CPU Unlocker
-  * [ ] Discrete to UMA BIOS Patcher
   * [x] BINx Comparator
   * [x] DifferTool
-  * [x] BINMerger  
-  * [x] [Master Password Generator](https://alien.raaz.info.np/server/unlocker/) Modified By [Hackeraj](https://www.facebook.com/HackerajOfficial) Credit Goes To: [https://bios-pw.org/](https://bios-pw.org/)
+  * [x] BINMerger
   * [ ] Insyde BIOS Extractor
   * [ ] Master Extractor
+  * [ ] Encrypted PCH/CPU Unlocker
+  * [ ] Discrete to UMA BIOS Patcher
+  * [x] [Master Password Generator](https://alien.raaz.info.np/server/unlocker/) Modified By [Hackeraj](https://www.facebook.com/HackerajOfficial) Credit Goes To: [https://bios-pw.org/](https://bios-pw.org/)
   
 
 ## Limitations
