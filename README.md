@@ -130,6 +130,14 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
 2. [Umesh Gupta](https://www.facebook.com/umeshkumarguptanp)
 3. [Dibya Joshi](https://www.facebook.com/dibya.joshi.99)
 
+# 🙏 Specail Thanks
+1. [Basir Khan]()
+2. [Biranjan Kumar]()
+3. [badcaps.net]()
+4. [winraid]()
+5. [https://github.com/platomav](https://github.com/platomav)
+6. [https://github.com/LongSoft/UEFITool](https://github.com/LongSoft/UEFITool)
+
 ## References
 - [8FC8 Unlocker](https://github.com/HackerajOfficial/Alien-Server/blob/main/8FC8%20Unlocker.md)
 - [AMITSESetup Decryptor & Unlocker](https://github.com/HackerajOfficial/Alien-Server/blob/main/AMITSESetup.md/)
