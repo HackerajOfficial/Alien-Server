@@ -14,7 +14,7 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
       * [x] T2 Serial Editor
       * [x] CRC32 Security Fixed
  - ****ACER****
-    * [x] Latest Acer Gaming laptop Unlocking
+    * [x] Latest Acer Gaming laptop Unlocking (Aspire/Swift/TravelMate)
  - ****Chromebook****
     * [x] [Chromebook Unlocker](https://alien.raaz.info.np/server/unlock/chromebook/)
       * [x] Deactive devmode
@@ -65,7 +65,7 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
     * [ ] END Point Security
     * [ ] DMI Editor
     * [ ] AMD DMI Copier
-    * [x] Intel DMI Copier
+    * [x] NVRAM DMI Copier
 - ****ALL****
   * [x] [Onboard RAM Disable](https://alien.raaz.info.np/server/onboard_ram_disable/)
     * [x] DDR3L
