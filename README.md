@@ -97,7 +97,7 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
       * [x] CSME 18
       * [x] CSME 19
       * [ ] CSME 20
-    * [ ] NVRAM Clear
+    * [x] NVRAM Clear
     * [x] PHCM Clear
   * [ ] NVRAM
     * [ ] Clear
