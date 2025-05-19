@@ -4,11 +4,18 @@
 Lenovo Unlocker Coded By Hackeraj. It has capability to unlock including EC 1KB / 128KB / 256KB, and Wireless Unlocking.
 
 ## Features
-* [ ] Lenovo BIOS Patcher
+* [x] Password ROM bypass (2012 and older)
+      Most ThinkPads from 2012 and older (3rd gen Intel and older) use a 24-series dedicated password ROM. It can often be bypassed during boot by shorting the SDA and SCL pins together. Other times, flashing the ROM may be required.
 * [x] EC BIOS
     * [x] 1KB
-    * [x] 128KB
-    * [x] 256KB
+    * [x] 128KB - Flashing EC (ENE KB9012)
+         - starting_offset: 200
+         - ending_offset: 022F
+         - Fill By 00
+    * [x] 256KB - Flashing EC (Nuvoton NPCE288 NPCE388)
+         - Starting_offset: 36010
+         - Ending_offset: 36CE0
+         - Fill by FF 00
 * [ ] Wireless Unlocking
 
 # :octocat: Developer
