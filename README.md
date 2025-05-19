@@ -62,7 +62,7 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
       * [x] G9, G10
       * [ ] G11
     * [ ] Disable Absolute State
-    * [ ] END Point Security
+    * [x] END Point Security
       * [x] HP EliteBook, ZBook, FireFly series.
       * [x] Models from G1 to G11
       * [x] Both Intel and AMD platforms  
