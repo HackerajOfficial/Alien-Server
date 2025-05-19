@@ -65,7 +65,7 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
     * [ ] END Point Security
     * [ ] DMI Editor
     * [ ] AMD DMI Copier
-    * [ ] Intel DMI Copier
+    * [x] Intel DMI Copier
 - ****ALL****
   * [x] [Onboard RAM Disable](https://alien.raaz.info.np/server/onboard_ram_disable/)
     * [x] DDR3L
