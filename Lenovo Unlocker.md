@@ -14,6 +14,9 @@ However, it appears that dumping the EC with a dedicated programmer, erasing it 
 https://www.badcaps.net/forum/showthread.php?t=111439
 * [x] EC BIOS
     * [x] 1KB
+         - starting_offset: 300
+         - ending_offset: 380
+         - Fill By 00 
     * [x] 128KB - Flashing EC (ENE KB9012)
          - starting_offset: 200
          - ending_offset: 022F
@@ -21,7 +24,7 @@ https://www.badcaps.net/forum/showthread.php?t=111439
     * [x] 256KB - Flashing EC (Nuvoton NPCE288 NPCE388)
          - Starting_offset: 36010
          - Ending_offset: 36CE0
-         - Fill by FF 00
+         - Fill by 00
 * [ ] Wireless Unlocking
 
 # :octocat: Developer
