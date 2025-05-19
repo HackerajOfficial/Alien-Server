@@ -5,7 +5,13 @@ Lenovo Unlocker Coded By Hackeraj. It has capability to unlock including EC 1KB 
 
 ## Features
 * [x] Password ROM bypass (2012 and older)
-      Most ThinkPads from 2012 and older (3rd gen Intel and older) use a 24-series dedicated password ROM. It can often be bypassed during boot by shorting the SDA and SCL pins together. Other times, flashing the ROM may be required.
+      - Most ThinkPads from 2012 and older (3rd gen Intel and older) use a 24-series dedicated password ROM. It can often be bypassed during boot by shorting the SDA and SCL pins together. Other times, flashing the ROM may be required.
+* [ ] DXE password bypass driver injection (2012-2018)
+      - For newer machines (2012-2018, 4th to 8th gen Intel), the password itself is stored in the EC. BIOS must be modified and re-flashed to insert a special driver that will allow bypassing the BIOS password. Refer to https://www.badcaps.net/forum/showthread.php?t=87588 and https://www.badcaps.net/forum/showthread.php?t=81573
+* [ ] Flashing EC (SMSC MEC, 2019-*)
+      - On the latest generations of ThinkPads, the security issue that allowed to inject the DXE driver and bypass the password does not exist anymore. The password is still stored inside the EC, in a write-only region.
+However, it appears that dumping the EC with a dedicated programmer, erasing it and flashing back can actually clear the password. See: https://www.badcaps.net/forum/showth...t=95736&page=5
+https://www.badcaps.net/forum/showthread.php?t=111439
 * [x] EC BIOS
     * [x] 1KB
     * [x] 128KB - Flashing EC (ENE KB9012)
