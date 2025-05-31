@@ -143,7 +143,7 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
 3. [Dibya Joshi](https://www.facebook.com/dibya.joshi.99)
 
 # 🙏 Specail Thanks To:
-1. [Basir Khan]()
+1. [Basir Khan](https://t.me/SKBASIRSONA) - [(BIOS Magician)](https://mecleaner.in/) - [SKBWorld](https://www.skbworld.co/) - [Whatsapp](https://wa.me/919861606292)
 2. [Biranjan Kumar]()
 3. [badcaps.net]()
 4. [winraid]()
