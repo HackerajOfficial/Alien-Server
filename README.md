@@ -75,6 +75,9 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
     * [x] DDR4
     * [ ] DDR5
   * [ ] Master Cleaner
+    * [x] ME Version
+    * [x] SKU Detection (Consumer or Corporate)
+    * [ ] Initialized / Configured
     * [ ] ME CLEAN
       * [ ] TXE 0
       * [ ] TXE 1
