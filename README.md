@@ -109,8 +109,10 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
     * [x] Backup
     * [x] Restore
   * [x] [AMITSESetup Decryptor & Unlocker](https://alien.raaz.info.np/server/unlock/AMITSESetup/)
-    * [x] Boot Password
-    * [x] Admin Password  
+    * [x] Decrypt
+      * [x] Boot Password
+      * [x] Admin Password
+    * [x] Unlock AMI Standard BIOS Firmware  
   * [x] RSA Signature Injector
   * [x] BINx Comparator
   * [x] DifferTool
