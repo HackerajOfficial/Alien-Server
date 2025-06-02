@@ -136,6 +136,8 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
 ## Contact
   [RAAZ - WhatsApp: +977-9822230001](https://wa.me/9779822230001?text=)
 
+   [RAAZ Telegram:](https://t.me/HackerajOfficial)
+
   [Alien Server Telegram:](https://t.me/AlienServerNP)
 
 
