@@ -88,11 +88,11 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
       * [ ] ME 3
       * [ ] ME 4
       * [ ] ME 5
-      * [ ] ME 6
-      * [ ] ME 7
-      * [ ] ME 8
-      * [ ] ME 9
-      * [ ] ME 10
+      * [x] ME 6
+      * [x] ME 7
+      * [x] ME 8
+      * [x] ME 9
+      * [x] ME 10
       * [ ] CSME 11
       * [ ] CSME 12
       * [ ] CSME 13
