@@ -58,8 +58,9 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
      * [ ] LENV DMI Editor
 - ****HP****
     * [ ] [HP Unlocker](https://alien.raaz.info.np/server/unlock/hp/)
-      * [x] G1, G2, G3, G4, G5, G6, G7, G8
-      * [x] G9, G10
+      * [ ] G1, G2
+      * [x] G3, G4, G5, G6, G7, G8
+      * [ ] G9, G10
       * [ ] G11
     * [ ] Disable Absolute State
     * [x] Endoint Security
