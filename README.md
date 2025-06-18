@@ -16,7 +16,7 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
  - ****ACER****
     * [x] Latest Acer Gaming laptop Unlocking (Aspire/Swift/TravelMate)
  - ****ASUS****
-    * [ ] GPNV DMI Copier
+    * [x] GPNV DMI Copier
  - ****Chromebook****
     * [x] [Chromebook Unlocker](https://alien.raaz.info.np/server/unlock/chromebook/)
       * [x] Deactive devmode
