@@ -38,7 +38,10 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
           * [x] Surface Pro 1
           * [x] Surface Pro 2
           * [x] surface pro 3
-        * [x] Unlock 
+        * [x] Unlock
+          * [x] Surface Pro 1
+          * [x] Surface Pro 2
+          * [x] surface pro 3
           * [x] Surface Pro 4
           * [x] Surface Pro 5
           * [x] Surface Pro 6
