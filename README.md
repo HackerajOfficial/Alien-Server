@@ -72,12 +72,14 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
         * [x] HP EliteBook, ZBook, FireFly series.
         * [x] Models from G1 to G11
         * [x] Both Intel and AMD platforms
-        * [x] May not Working for You. Because it is developed for OS Windows Based. 
+        * [x] May not Working for You. Because it is developed for OS Windows Based.
+        * [x] It follows NVRAM Reset Method. 
       * [x] Version 2
         * [x] HP EliteBook, ZBook, FireFly series.
         * [x] Models from G1 to G11
         * [x] Both Intel and AMD platforms
-        * [x] Work for all either it is OS Windows or Linux.  
+        * [x] Work for all either it is OS Windows or Linux.
+        * [x] It follows special method.  
     * [ ] DMI Editor
     * [x] HP NVRAM DMI Copier
 - ****ALL****
