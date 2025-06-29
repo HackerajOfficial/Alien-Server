@@ -4,8 +4,7 @@
 Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disable BIOS, Schematic Diagram, Boardview, Repair Guide, Onboard RAM Disable, Datasheet, and Software Collections along with BIOS Editing, Modding, Patching, Encrypting, Decrypting, Unlocking Tool.
 
 ## Features
-- ***Clean User Interface.***
-- ***BIOS Firmware Security Editing, Patching, Decrypting, Encrypting, and Unlocking Tool.***
+- ***Download link file of [VINAFIX](https://vinafix.com/), [REPAIR LAB](https://www.repairlap.com/), [TEKNISI INDONESIA](https://teknisi-indonesia.com/) and [BIOS DOWNLOAD](https://www.bios-downloads.com/) from [Alien Server](https://alien.raaz.info.np/server/) Directly.***
 - ****APPLE****
    * [x] [2011 and older](https://github.com/HackerajOfficial/Alien-Server/blob/main/apple%202011%20and%20older%20unlock.md)
     * [x] [Apple Serial Editor & Unlocker](https://alien.raaz.info.np/server/unlock/apple/)
@@ -136,18 +135,7 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
   * [ ] Discrete to UMA BIOS Patcher
   * [x] [Master Password Generator](https://alien.raaz.info.np/server/unlocker/) Modified By [Hackeraj](https://www.facebook.com/HackerajOfficial) Credit Goes To: [https://bios-pw.org/](https://bios-pw.org/)
   
-
-## Limitations
-- ***Works only with English language***
-- Design is only applicable for PC.
-- <del>***For Downloading File must be use [Internet Download Manager](https://www.internetdownloadmanager.com/) Otherwise Downloaded File can't be extract***</del>
-
-## TODO
-* [ ] Work properly with any Operating System language.
-* [x] Server Run on SSD with High Speed internet connectivity.
-* [x] Each Account Allow only two devices, Remaining all Devices Restrict. 
-* [x] Download link file of [VINAFIX](https://vinafix.com/), [REPAIR LAB](https://www.repairlap.com/), [TEKNISI INDONESIA](https://teknisi-indonesia.com/) and [BIOS DOWNLOAD](https://www.bios-downloads.com/) from [Alien Server](https://alien.raaz.info.np/server/) Directly.
-
+ 
 ## Contact
   [RAAZ - WhatsApp: +977-9822230001](https://wa.me/9779822230001?text=)
 
