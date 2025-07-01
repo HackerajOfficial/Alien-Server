@@ -118,6 +118,7 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
     * [x] NVRAM Clear (HP)
     * [x] PHCM Clear (DELL)
     * [x] GPNV Clear (ASUS)
+    * [x] Reverting to default Configuration Error / Failed to Parse CSE Region
   * [x] NVRAM
     * [x] Clear
     * [x] Backup
