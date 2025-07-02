@@ -164,6 +164,10 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
 10. [Shudhanshu Raj]() - [SRG Info Tech]()
 11. [Rafi Sir]() - [AFS Solutions]()
 12. [SMDFlea(Super Moderator of Badcaps)](https://www.badcaps.net/member/237374-smdflea)
+13. [Sumed Kushwaha]()
+14. [Mukesh Jaiswal]()
+15. [Omprakash Kushwaha]()
+16. [MK]()
 
 ## References
 - [8FC8 Unlocker](https://github.com/HackerajOfficial/Alien-Server/blob/main/8FC8%20Unlocker.md)
