@@ -14,6 +14,9 @@ AMITSESetup Decryptor & Unlocker Coded By Hackeraj. It supports Boot Password, a
   * [x] Surface Pro 4 and newer cannot be decoded, password must be removed from dump and re-flashed.
     * [x] First Try, through Unlock using [AMITSESetup Decryptor & Unlocker](https://alien.raaz.info.np/server/unlock/AMITSESetup/)
     * [x] Second Method, [Microsoft Surface Unlocker](https://alien.raaz.info.np/server/unlock/surface/)
+- ***Geo Book***
+  * [x] GeoBook 120 X133G and newer cannot be decoded, password must be removed from dump and re-flashed.
+    * [x] Unlock using [AMITSESetup Decryptor & Unlocker](https://alien.raaz.info.np/server/unlock/AMITSESetup/)
 - ***Panasonic, and some other standard AMI implementation***
   * [x] Password often can be decoded from the BIOS dump. Otherwise, AMITSESetup variable can be cleared from the BIOS dump and re-flashed.
 
