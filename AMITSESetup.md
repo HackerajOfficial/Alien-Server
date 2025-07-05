@@ -22,7 +22,8 @@ AMITSESetup Decryptor & Unlocker Coded By Hackeraj. It supports Boot Password, a
 
 # :octocat: Developer
 1. [Hackeraj](https://www.facebook.com/HackerajOfficial/)
-2. [Dibya Joshi](https://www.facebook.com/dibya.joshi.99)
+2. [Umesh Gupta](https://www.facebook.com/umeshkumarguptanp)
+3. [Dibya Joshi](https://www.facebook.com/dibya.joshi.99)
 
 ## AMITSESetup Decryptor & Unlocker Related Tutorials
   [![AMITSESetup Decryptor & Unlocker](https://img.youtube.com/vi/foQpgeDwkiU/0.jpg)](https://www.youtube.com/watch?v=foQpgeDwkiU&ab_channel=Hackeraj)
