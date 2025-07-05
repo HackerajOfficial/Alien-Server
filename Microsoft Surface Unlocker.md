@@ -27,7 +27,8 @@ Microsoft Surface Unlocker Coded By Hackeraj. It has capability to unlock includ
 
 # :octocat: Developer
 1. [Hackeraj](https://www.facebook.com/HackerajOfficial/)
-2. [Dibya Joshi](https://www.facebook.com/dibya.joshi.99)
+2. [Umesh Gupta](https://www.facebook.com/umeshkumarguptanp)
+3. [Dibya Joshi](https://www.facebook.com/dibya.joshi.99)
 
 ## Microsoft Surface Unlocker Related Tutorials
 ### AMITSESetup Decryptor & Unlocker
