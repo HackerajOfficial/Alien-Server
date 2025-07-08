@@ -62,9 +62,10 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
         * [x] 256KB
       * [ ] Lenovo Wireless Unlocking
       * [ ] Lenovo Patcher
-     * [x] LENV DMI Copier
-     * [ ] Lenovo DMI Encryt / Decrypt
-     * [ ] LENV DMI Editor
+      * [ ] Lenovo Direct Unlocker
+    * [x] LENV DMI Copier
+    * [ ] Lenovo DMI Encryt / Decrypt
+    * [ ] LENV DMI Editor
 - ****HP****
     * [ ] [HP Unlocker](https://alien.raaz.info.np/server/unlock/hp/)
       * [x] HP ADMIN MAIN BIOS Unlock
