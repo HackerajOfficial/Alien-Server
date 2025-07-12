@@ -1,5 +1,5 @@
-# Alien Sever : [https://alien.raaz.info.np/server/](https://alien.raaz.info.np/server/)
 # Tool : [https://alien.raaz.info.np/server/unlocker/](https://alien.raaz.info.np/server/unlocker/)
+# Alien Sever : [https://alien.raaz.info.np/server/](https://alien.raaz.info.np/server/)
  
 ## Description
 Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disable BIOS, Schematic Diagram, Boardview, Repair Guide, Onboard RAM Disable, Datasheet, and Software Collections along with BIOS Editing, Modding, Patching, Encrypting, Decrypting, Unlocking Tool.
