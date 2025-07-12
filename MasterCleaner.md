@@ -2,7 +2,7 @@
 # Alien Sever : [https://alien.raaz.info.np/server/](https://alien.raaz.info.np/server/)
  
 ## Description
-Master Cleaner Coded By Hackeraj.
+Master Cleaner Coded By Hackeraj. Fully Guided By [Basir Khan](https://t.me/SKBASIRSONA)
 
 ## Features
 - ****Master Cleaner****
