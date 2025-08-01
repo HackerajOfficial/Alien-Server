@@ -23,6 +23,7 @@ Microsoft Surface Unlocker Coded By Hackeraj. It has capability to unlock includ
   * [x] Microsoft Surface Pro 8
   * [x] Microsoft Surface Pro 9
   * [x] Microsoft Surface Pro 10
+  * [x] Microsoft Surface Pro X 1876
  
 
 # :octocat: Developer
