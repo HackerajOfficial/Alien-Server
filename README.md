@@ -35,25 +35,26 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
     * [x] [Microsoft Surface Unlocker](https://alien.raaz.info.np/server/unlock/surface/)
       * [x] [AMITSESetup Decryptor & Unlocker](https://alien.raaz.info.np/server/unlock/AMITSESetup/)
         * [x] Decrypt
-          * [x] Surface Pro 1
-          * [x] Surface Pro 2
-          * [x] surface pro 3
+          * [x] Microsoft Surface Pro 1
+          * [x] Microsoft Surface Pro 2
+          * [x] Microsoft surface pro 3
         * [x] Unlock
-          * [x] Surface Pro 1
-          * [x] Surface Pro 2
-          * [x] surface pro 3
-          * [x] Surface Pro 4
-          * [x] Surface Pro 5
-          * [x] Surface Pro 6
-          * [x] Surface Pro 7
-          * [x] Surface Pro 8
-          * [x] Surface Pro 9
-          * [x] Surface Pro 10
-          * [ ] Surface Pro 11
-          * [x] Surface Pro X 1876
-          * [x] Surface Go Series
-          * [x] Surface Laptop Studio - Convertible laptop (not tablet)
-          * [ ] Surface Laptop / Studio - Clamshell-style laptops
+          * [x] Microsoft Surface Pro 1
+          * [x] Microsoft Surface Pro 2
+          * [x] Microsoft Surface pro 3
+          * [x] Microsoft Surface Pro 4
+          * [x] Microsoft Surface Pro 5
+          * [x] Microsoft Surface Pro 6
+          * [x] Microsoft Surface Pro 7
+          * [x] Microsoft Surface Pro 8
+          * [x] Microsoft Surface Pro 9
+          * [x] Microsoft Surface Pro 10
+          * [ ] Microsoft Surface Pro 11
+          * [ ] Microsoft Surface Pro 12
+          * [x] Microsoft Surface Pro X 1876
+          * [x] Microsoft Surface Go Series
+          * [x] Microsoft Surface Laptop Studio - Convertible laptop (not tablet)
+          * [ ] Microsoft Surface Laptop / Studio - Clamshell-style laptops
         * [x] Version 1
           * [x] Normal Method which modified based on Some special keyword.
         * [x] Version 2
