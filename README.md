@@ -147,7 +147,7 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
       * [x] Admin Password
     * [x] Unlock AMI Standard BIOS Firmware
     * [x] Brands
-      * [x] Password Decryption without Suffix
+      * [x] Dell Password Decryption without Suffix
       * [x] Asus
       * [x] Microsoft Surface
       * [x] GeoBook
