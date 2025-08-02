@@ -51,8 +51,8 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
           * [x] Surface Pro 10
           * [ ] Surface Pro 11
           * [x] Surface Pro X 1876
-          * [ ] Surface Go Series
-          * [ ] Surface Laptop Studio - Convertible laptop (not tablet)
+          * [x] Surface Go Series
+          * [x] Surface Laptop Studio - Convertible laptop (not tablet)
           * [ ] Surface Laptop / Studio - Clamshell-style laptops
         * [x] Version 1
           * [x] Normal Method which modified based on Some special keyword.
