@@ -24,6 +24,8 @@ Microsoft Surface Unlocker Coded By Hackeraj. It has capability to unlock includ
   * [x] Microsoft Surface Pro 9
   * [x] Microsoft Surface Pro 10
   * [x] Microsoft Surface Pro X 1876
+  * [x] Microsoft Surface Go Series
+  * [x] Microsoft Surface Laptop Studio - Convertible laptop (not tablet)
  
 
 # :octocat: Developer
