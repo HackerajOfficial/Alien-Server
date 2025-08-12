@@ -97,12 +97,6 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
     * [ ] DMI Editor
     * [x] HP DMI Copier
       * [x] Both Intel and AMD platforms
-- ****Printer - Chipless BIOS Modding - This Tool don't come in the (Alien Server & Tool) Subscription. For this tool contact with / Credit Goes To: [Dipendra Shrama](https://t.me/dipendrashrama143)****
-   * [ ] HP Printer 135A
-   * [ ] HP Printer 135W
-   * [ ] HP Printer 107A
-   * [ ] HP Printer 107W
-   
 - ****ALL****
   * [ ] [Onboard RAM Disable](https://alien.raaz.info.np/server/onboard_ram_disable/)
     * [x] DDR3L
