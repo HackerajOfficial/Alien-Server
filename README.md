@@ -202,7 +202,10 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
 - [Microsoft Surface Unlocker](https://github.com/HackerajOfficial/Alien-Server/blob/main/Microsoft%20Surface%20Unlocker.md)
 - [Chromebook Unlocker](https://github.com/HackerajOfficial/Alien-Server/blob/main/Chromebook%20Unlocker.md)
 - [Lenovo Unlocker](https://github.com/HackerajOfficial/Alien-Server/blob/main/Lenovo%20Unlocker.md)
-  
+
+## Article About Alien Server
+- [https://rog-forum.asus.com/t5/tuf-asus-gaming-notebooks/guide-to-decrypt-admin-level-bios-uefi-password-on-newer-model/td-p/994023](https://rog-forum.asus.com/t5/tuf-asus-gaming-notebooks/guide-to-decrypt-admin-level-bios-uefi-password-on-newer-model/td-p/994023)
+- [https://github.com/peter-lamantia/asus-bios-uefi-admin-password-recovery?tab=readme-ov-file](https://github.com/peter-lamantia/asus-bios-uefi-admin-password-recovery?tab=readme-ov-file)
  
 
 [Facebook](https://www.facebook.com/HackerajOfficial/)
