@@ -76,7 +76,6 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
 - ****HP****
     * [ ] [HP Unlocker](https://alien.raaz.info.np/server/unlock/hp/)
       * [x] HP ADMIN MAIN BIOS Unlock
-      * [ ] Absolute State Unlock
       * [x] G2 
       * [x] G3, G4, G5, G6, G7, G8 (EC Upload)
       * [ ] G9, G10, & G11
@@ -156,6 +155,7 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
   * [x] BINx Comparator
   * [x] DifferTool
   * [x] BINMerger
+  * [x] Disable Absolute State
   * [ ] Encrypted PCH/CPU Unlocker
   * [ ] Discrete to UMA BIOS Patcher
   * [x] [Master Password Generator](https://alien.raaz.info.np/server/unlocker/) Modified By [Hackeraj](https://www.facebook.com/HackerajOfficial) Credit Goes To: [https://bios-pw.org/](https://bios-pw.org/)
