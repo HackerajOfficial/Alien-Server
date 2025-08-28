@@ -96,7 +96,7 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
     * [ ] DMI Editor
     * [x] HP DMI Copier
       * [x] Both Intel and AMD platforms
-    * [ ] HP Sure Start Recovery Fix
+    * [ ] Sure Start Recovery Fix
 - ****ALL****
   * [ ] [Onboard RAM Disable](https://alien.raaz.info.np/server/onboard_ram_disable/)
     * [x] DDR3L
