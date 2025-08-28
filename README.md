@@ -157,7 +157,7 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
   * [x] BINMerger
   * [x] Disable AbtState / Disable Absolute State
     * [x] HP
-    * [ ] Lenovo
+    * [x] Lenovo
     * [ ] Dell
   * [ ] Encrypted PCH/CPU Unlocker
   * [ ] Discrete to UMA BIOS Patcher
