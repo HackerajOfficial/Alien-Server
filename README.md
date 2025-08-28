@@ -97,7 +97,7 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
       * [x] Both Intel and AMD platforms
     * [ ] Sure Start Recovery Fix
 - ****ALL****
-  * [ ] [Onboard RAM Disable](https://alien.raaz.info.np/server/onboard_ram_disable/)
+  * [ ] [Onboard RAM Disable](https://alien.raaz.info.np/server/onboard_ram_disable/) - We will teach you Manually or Use SPD Remover Software (We are doing research on it when complete then we will be provide)
     * [x] DDR3L
     * [x] DDR3
     * [x] DDR4
