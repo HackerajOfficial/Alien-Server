@@ -76,11 +76,10 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
 - ****HP****
     * [ ] [HP Unlocker](https://alien.raaz.info.np/server/unlock/hp/)
       * [x] HP ADMIN MAIN BIOS Unlock
+      * [ ] Absolute State Unlock
       * [x] G2 
-      * [x] G3, G4, G5, G6, G7, G8
-      * [ ] G9, G10
-      * [ ] G11
-    * [ ] Disable Absolute State
+      * [x] G3, G4, G5, G6, G7, G8 (EC Upload)
+      * [ ] G9, G10, & G11
     * [x] Endoint Security
       * [x] Version 1
         * [x] HP EliteBook, ZBook, FireFly series.
@@ -97,6 +96,7 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
     * [ ] DMI Editor
     * [x] HP DMI Copier
       * [x] Both Intel and AMD platforms
+    * [ ] HP Sure Start Fix
 - ****ALL****
   * [ ] [Onboard RAM Disable](https://alien.raaz.info.np/server/onboard_ram_disable/)
     * [x] DDR3L
