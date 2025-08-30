@@ -43,18 +43,39 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
           * [x] Microsoft Surface Pro 2
           * [x] Microsoft Surface pro 3
           * [x] Microsoft Surface Pro 4
-          * [x] Microsoft Surface Pro 5
+          * [x] Microsoft Surface Pro 5 / Surface Pro (2017)
           * [x] Microsoft Surface Pro 6
           * [x] Microsoft Surface Pro 7
+          * [x] Microsoft Surface Pro 7+ 
           * [x] Microsoft Surface Pro 8
           * [x] Microsoft Surface Pro 9
           * [x] Microsoft Surface Pro 10
           * [ ] Microsoft Surface Pro 11
           * [ ] Microsoft Surface Pro 12
           * [x] Microsoft Surface Pro X 1876
-          * [x] Microsoft Surface Go Series
+          * [x] Microsoft Surface Laptop (1st Gen)
+          * [ ] Microsoft Surface Laptop 2
+          * [ ] Microsoft Surface Laptop 3
+          * [ ] Microsoft Surface Laptop 4
+          * [ ] Microsoft Surface Laptop 5
+          * [ ] Microsoft Surface Laptop 6
+          * [ ] Microsoft Surface Laptop 7
+          * [ ] Microsoft Surface Laptop 13-inch
+          * [ ] Microsoft Surface Laptop 5G
+          * [ ] Microsoft Surface Laptop SE
+          * [ ] Microsoft Surface Laptop Go (1st Gen)
+          * [ ] Microsoft Surface Laptop Go 2
+          * [ ] Microsoft Surface Laptop Go 3
+          * [x] Microsoft Surface Go (1st Gen)
+          * [ ] Microsoft Surface Go 2
+          * [ ] Microsoft Surface Go 3
+          * [ ] Microsoft Surface Go 4
           * [x] Microsoft Surface Laptop Studio - Convertible laptop (not tablet)
           * [ ] Microsoft Surface Laptop / Studio - Clamshell-style laptops
+          * [ ] Microsoft Surface Book (1st Gen)
+          * [ ] Microsoft Surface Book 2
+          * [ ] Microsoft Surface Book 3
+          
         * [x] Version 1
           * [x] Normal Method which modified based on Some special keyword.
         * [x] Version 2
