@@ -76,12 +76,13 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
           * [ ] Microsoft Surface Book 2
           * [ ] Microsoft Surface Book 3
           
-        * [x] Version 1
-          * [x] Normal Method which modified based on Some special keyword.
-        * [x] Version 2
+       * [x] Version 1
           * [x] It's performed on whole region to remove the password
           * [x] Slow (May not Working for You. Because it is developed for OS Windows Based.)
-          * [x] Fast (Work for all either it is OS Windows or Linux.)  
+          * [x] Fast (Work for all either it is OS Windows or Linux.)
+       * [x] Version 2
+          * [x] Normal Method which modified based on Some special keyword.
+        
 - ****Lenovo****
     * [ ] [Lenovo Unlocker](https://alien.raaz.info.np/server/unlock/lenovo/)
       * [x] EC Password Unlock
