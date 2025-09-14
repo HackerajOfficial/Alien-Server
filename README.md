@@ -196,7 +196,7 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
 
 
 # :octocat: Developer
-1. [Hackeraj](https://www.facebook.com/HackerajOfficial/)
+1. [Hackeraj](https://www.facebook.com/Hackeraj/)
 2. [Umesh Gupta](https://www.facebook.com/umeshkumarguptanp)
 3. [Dibya Joshi](https://www.facebook.com/dibya.joshi.99)
 
@@ -234,7 +234,7 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
 - [https://github.com/peter-lamantia/asus-bios-uefi-admin-password-recovery?tab=readme-ov-file](https://github.com/peter-lamantia/asus-bios-uefi-admin-password-recovery?tab=readme-ov-file)
  
 
-[Facebook](https://www.facebook.com/HackerajOfficial/)
+[Facebook](https://www.facebook.com/Hackeraj/)
 [Telegram](https://t.me/HackerajOfficial)
 [Telegram Group](https://t.me/AlienServerNP)
 [Telegram Channel](https://t.me/AcerComputerCenter)
