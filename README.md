@@ -188,6 +188,7 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
     * [ ] Dell
     * [ ] Lenovo
     * [ ] Microsoft
+    * [ ] Panasonic Toughbook
   
  
 ## Contact
