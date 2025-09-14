@@ -185,6 +185,9 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
   * [ ] Discrete to UMA BIOS Patcher
   * [x] [Master Password Generator](https://alien.raaz.info.np/server/unlocker/) Modified By [Hackeraj](https://www.facebook.com/HackerajOfficial) Credit Goes To: [https://bios-pw.org/](https://bios-pw.org/)
   * [ ] AutoPilot Removal
+    * [ ] Dell
+    * [ ] Lenovo
+    * [ ] Microsoft
   
  
 ## Contact
