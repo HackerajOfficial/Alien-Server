@@ -25,7 +25,7 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
       * [x] fix stable_device_secret
 - ****DELL****
   * [x] [8FC8 Unlocker](https://alien.raaz.info.np/server/unlock/8fc8/)
-    * [x] Normal FCFD Unlocking
+    * [x] Normal FCFD Unlocking / Factory Mode BIOS / MPM UNlock - Generally, It is used for to Unlock 8FC8 Desktop Motherboard
     * [x] Alienware, Precision Unlocking
     * [x] Dell latest Unlocking
   * [x] ST_Fix
