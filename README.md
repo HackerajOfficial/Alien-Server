@@ -54,8 +54,8 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
           * [ ] Microsoft Surface Pro 12
           * [x] Microsoft Surface Pro X 1876
           * [x] Microsoft Surface Laptop (1st Gen)
-          * [ ] Microsoft Surface Laptop 2
-          * [ ] Microsoft Surface Laptop 3
+          * [x] Microsoft Surface Laptop 2
+          * [x] Microsoft Surface Laptop 3
           * [ ] Microsoft Surface Laptop 4
           * [ ] Microsoft Surface Laptop 5
           * [ ] Microsoft Surface Laptop 6
