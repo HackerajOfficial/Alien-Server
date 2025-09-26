@@ -1,0 +1,123 @@
+# 🔎 How to Identify an RPMC BIOS Chip
+
+Modern laptops and desktops often use SPI flash chips to store BIOS/UEFI firmware. Some of these chips support **Replay Protected Monotonic Counter (RPMC)**, a hardware-based security feature used in Intel Boot Guard, AMD PSP, TPM, and secure boot processes.
+
+This guide explains how to identify whether your BIOS chip has **RPMC support**.
+
+---
+
+## 📌 What is RPMC?
+
+* **RPMC (Replay Protected Monotonic Counter)** is a special hardware counter built into some SPI flash chips.
+* It prevents replay attacks by ensuring counters can only **increase**, never reset or decrease.
+* Used for:
+
+  * Intel Boot Guard
+  * AMD PSP fTPM
+  * DRM / secure key storage
+  * Anti-rollback protection
+
+---
+
+## 🧩 Ways to Identify an RPMC Chip
+
+### 1. **Check the Chip Marking**
+
+1. Locate the BIOS chip (usually 8-pin SOIC near CPU/EC).
+2. Write down the full part number (example: `W25Q128JVSIQ`).
+3. Decode the suffix:
+
+   * **Winbond**
+
+     * `JVSIQ`, `JVPIQ` → ✅ RPMC supported
+     * `JVSSQ` → ❌ No RPMC
+   * **Macronix**
+
+     * `73F`, `73G`, `85G` families → ✅ RPMC supported
+   * **GigaDevice**
+
+     * Models with `UE` suffix → ✅ RPMC
+   * **ESMT / ISSI**
+
+     * Security versions only (special ordering required).
+
+---
+
+### 2. **Check the Datasheet**
+
+* Download the datasheet from the chip vendor’s website.
+* Look for:
+
+  * “**Replay Protected Monotonic Counter**”
+  * “**Security Features**”
+  * “**RPMC Command Set (0x9B, 0x96, 0x97, …)**”
+* Example:
+
+  * `W25Q128JVSIQ` datasheet → lists RPMC.
+  * `W25Q128JVSSQ` datasheet → no RPMC.
+
+---
+
+### 3. **Use Software Tools**
+
+If you can connect the chip with a programmer (CH341A, RT809H, Dediprog, etc.):
+
+* **With flashrom (Linux):**
+
+  ```bash
+  flashrom -p ch341a_spi -r bios.bin -VV
+  ```
+
+  * Logs may reveal chip capabilities.
+
+* **With vendor utilities:**
+
+  * Send opcode `0x9B` (RPMC instruction).
+  * If the chip responds → ✅ RPMC.
+  * If it errors → ❌ Not supported.
+
+---
+
+### 4. **Check the BIOS Firmware**
+
+If you have a BIOS dump (`.bin` file):
+
+* Open in **UEFITool** or **IDA Pro**.
+* Search for:
+
+  * Opcode `0x9B`
+  * Strings: `RPMC`, `Monotonic`, `Replay Counter`
+* If found, the firmware expects RPMC support.
+
+---
+
+## 📊 Common Examples
+
+| Manufacturer   | Non-RPMC Example | RPMC Example                       |
+| -------------- | ---------------- | ---------------------------------- |
+| **Winbond**    | W25Q128JV**SSQ** | W25Q128JV**SIQ**, W25Q256JV**PIQ** |
+| **Macronix**   | MX25U12835F      | MX25U12873F, MX66U51273G           |
+| **GigaDevice** | GD25Q128C        | GD25Q256E**UE**                    |
+| **ESMT**       | F25L32QA         | F25L32QA (RPMC-enabled variant)    |
+
+---
+
+## ✅ Quick Checklist
+
+* Chip suffix ends with `IQ`, `F`, `G`, or `UE`
+* Datasheet mentions **RPMC** or opcode `0x9B`
+* Programmer responds to **0x9B command**
+* BIOS firmware references **RPMC functions**
+
+If at least 2 checks are true → you have an **RPMC BIOS chip**.
+
+---
+
+## 📌 Conclusion
+
+Identifying an RPMC BIOS chip is essential for **firmware engineers, BIOS modders, and security researchers**.
+With RPMC chips becoming more common, knowing how to spot them helps avoid compatibility issues when dumping, flashing, or modifying BIOS firmware.
+
+---
+
+Would you like me to also make a **visual diagram (chip pinout + markings guide)** that you can include in your GitHub article so readers can spot the chip more easily?
