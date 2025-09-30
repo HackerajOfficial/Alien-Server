@@ -98,8 +98,8 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
 - ****HP****
     * [ ] [HP Unlocker](https://alien.raaz.info.np/server/unlock/hp/)
       * [x] HP ADMIN MAIN BIOS Unlock
-      * [x] G2 
-      * [x] G3, G4, G5, G6, G7, G8 (EC Upload)
+      * [x] G1, G2, & G3 
+      * [x] G4, G5, G6, G7, G8 Corporate(Intel/AMD) Patch Unlock - (Backup/EC BIOS Upload)
       * [ ] G9, G10, & G11
         * [x] Ultra 5
         * [ ] Ultra 7
