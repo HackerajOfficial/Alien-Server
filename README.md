@@ -105,7 +105,8 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
         * [x] CSME 16
         * [ ] CSME 18 (50% Can be Unlocked)
       * [ ] G11
-        * [x] Ultra 5
+        * [x] Ultra 5 Gen 1
+        * [ ] Ultra 5 Gen 2
         * [ ] Ultra 7
         * [ ] Ultra 9
     * [x] Endoint Security
