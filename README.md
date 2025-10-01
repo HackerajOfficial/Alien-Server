@@ -107,8 +107,10 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
       * [ ] G11
         * [x] Ultra 5 Gen 1
         * [ ] Ultra 5 Gen 2
-        * [ ] Ultra 7
-        * [ ] Ultra 9
+        * [ ] Ultra 7 Gen 1
+        * [ ] Ultra 7 Gen 2
+        * [ ] Ultra 9 Gen 1
+        * [ ] Ultra 9 Gen 2
     * [x] Endoint Security
       * [x] Version 1
         * [x] HP EliteBook, ZBook, FireFly series.
