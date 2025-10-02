@@ -128,6 +128,12 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
     * [x] HP DMI Copier
       * [x] Both Intel and AMD platforms
     * [x] Sure Start Recovery Fix
+       
+- ****Toshiba****
+    * [ ] Toshiba
+      * [x] Consumer: A lot of Toshiba consumer laptops have a jumper on the motherboard that needs to be shorted before boot to clear the password.
+      * [ ] Business: Password is stored inside a protected region of the EC. Either you need a donor EC without password, or you need to unlock through challenge-response.
+        
 - ****ALL****
   * [ ] [Onboard RAM Disable](https://alien.raaz.info.np/server/onboard_ram_disable/) - We will teach you Manually or Use SPD Remover Software (We are doing research on it when complete then we will be provide)
     * [x] DDR3L
