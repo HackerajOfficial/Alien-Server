@@ -5,7 +5,6 @@
 Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disable BIOS, Schematic Diagram, Boardview, Repair Guide, Onboard RAM Disable, Datasheet, Mainboard HD Photo, and Software Collections along with BIOS Editing, Modding, Patching, Encrypting, Decrypting, Unlocking Tool.
 
 ## Features
-- ***Download link file of [VINAFIX](https://vinafix.com/) from [Alien Server](https://alien.raaz.info.np/server/) Directly. Note: We don't accept those link which is already available on alien server File***
 - ****APPLE****
    * [x] [2011 and older](https://github.com/HackerajOfficial/Alien-Server/blob/main/apple%202011%20and%20older%20unlock.md)
     * [x] [Apple Serial Editor & Unlocker](https://alien.raaz.info.np/server/unlock/apple/)
