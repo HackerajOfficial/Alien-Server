@@ -204,7 +204,7 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
   * [x] [Master Password Generator](https://alien.raaz.info.np/server/unlocker/) Modified By [Hackeraj](https://www.facebook.com/HackerajOfficial) Credit Goes To: [https://bios-pw.org/](https://bios-pw.org/)
   * [ ] AutoPilot Removal
     * [x] Dell
-    * [x] HP Gmail Lock Unlock /  Account Lock Unlock / MDM Unlock
+    * [x] HP Gmail Unlock /  Account Unlock / MDM Unlock
     * [ ] Lenovo
     * [x] Microsoft
     * [x] Panasonic Toughbook
