@@ -189,6 +189,8 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
       * [x] Asus
       * [x] Microsoft Surface
       * [x] GeoBook
+      * [x] Samsung
+         * [x] Samsung Galaxy Book3 Pro 360
       * [x] Panasonic, and some other standard AMI implementation
   * [x] RSA Signature Injector
   * [x] BINx Comparator
