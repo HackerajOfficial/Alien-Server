@@ -173,6 +173,7 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
     * [ ] Reverting to default Configuration Error / Failed to Parse CSE Region
   * [x] NVRAM
     * [x] Clear
+       * [x] Gmail Lock Unlock /  Account Lock Unlock / MDM Unlock
     * [x] Backup
     * [x] Restore
     * [x] Slow (May not Working for You. Because it is developed for OS Windows Based.)
