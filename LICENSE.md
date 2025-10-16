@@ -1,0 +1,61 @@
+# Alien Server Legal, License & Contribution Terms
+
+## 1. License (MIT)
+Copyright (c) 2025 Alien Server
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## 2. Lawful and Ethical Use Notice
+This repository is strictly for **educational, diagnostic, and repair research** purposes only.
+It must **not** be used to:
+- Circumvent security locks, digital rights management (DRM), or password protection.
+- Unlock, modify, or tamper with proprietary systems without authorization.
+- Sell or distribute any tool that can be used for unlawful access or modification.
+
+Users are responsible for ensuring compliance with **local laws** and **manufacturer agreements**.
+All contributors affirm their intent to promote **legitimate repair and learning**, not bypassing ownership controls.
+
+---
+
+## 3. Security and Disclosure Policy
+If you discover any security vulnerability, please **report it privately** instead of publicly posting it.
+Contact: [hackeraj.np@gmail.com](hackeraj.np@gmail.com)
+We will acknowledge and address valid reports responsibly.
+
+---
+
+## 4. Contribution Guidelines
+By submitting code or content:
+- You agree to license your contribution under the MIT License.
+- You confirm that your contributions are your own original work.
+- You agree to redact or remove any proprietary or confidential firmware content.
+
+Pull requests should focus on:
+- Educational documentation, open schematics, lawful BIOS modding guides.
+- Software improvements that aid legitimate diagnostics and repair.
+
+---
+
+## 5. Attribution and Notice
+Some datasets, BIOS images, or schematics may belong to their respective OEMs.
+These materials are used only for **study and compatibility testing**.
+All trademarks and logos are the property of their respective owners.
+
