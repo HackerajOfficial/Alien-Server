@@ -6,8 +6,8 @@
 ---
 
 ## Tool & Server Links
-- **Tool:** [Unlocker](https://alien.raaz.info.np/server/unlocker/)  
-- **Server:** [Alien Server](https://alien.raaz.info.np/server/)
+- **Tool:** [https://alien.raaz.info.np/server/unlocker/](https://alien.raaz.info.np/server/unlocker/)  
+- **Server:** [https://alien.raaz.info.np/server/](https://alien.raaz.info.np/server/)
 
 ---
 
