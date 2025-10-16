@@ -1,8 +1,7 @@
 # Alien Server
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)  
-[![Security Policy](https://img.shields.io/badge/Security-Responsible--Disclosure-blue.svg)](./SECURITY.md)  
-[![Contribute](https://img.shields.io/badge/Contribute-Welcome-green.svg)](./CONTRIBUTING.md)
+[![Security Policy](https://img.shields.io/badge/Security-Responsible--Disclosure-blue.svg)](./SECURITY.md)
 
 ---
 
