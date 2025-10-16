@@ -1,8 +1,22 @@
-# Tool : [https://alien.raaz.info.np/server/unlocker/](https://alien.raaz.info.np/server/unlocker/)
-# Alien Sever : [https://alien.raaz.info.np/server/](https://alien.raaz.info.np/server/)
- 
+# Alien Server
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)  
+[![Security Policy](https://img.shields.io/badge/Security-Responsible--Disclosure-blue.svg)](./SECURITY.md)  
+[![Contribute](https://img.shields.io/badge/Contribute-Welcome-green.svg)](./CONTRIBUTING.md)
+
+---
+
+## Tool & Server Links
+- **Tool:** [Unlocker](https://alien.raaz.info.np/server/unlocker/)  
+- **Server:** [Alien Server](https://alien.raaz.info.np/server/)
+
+---
+
 ## Description
-Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disable BIOS, Schematic Diagram, Boardview, Repair Guide, Onboard RAM Disable, Datasheet, Mainboard HD Photo, and Software Collections along with BIOS Editing, Modding, Patching, Encrypting, Decrypting, Unlocking Tool.
+Alien Server is the **world's largest collection** of LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disable BIOS, schematics, boardviews, repair guides, datasheets, mainboard HD photos, and software.  
+It also provides tools for **BIOS editing, modding, patching, encrypting, decrypting, and unlocking**.
+
+---
 
 ## Features
 - ****APPLE****
