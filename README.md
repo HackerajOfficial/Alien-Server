@@ -12,7 +12,7 @@
 ---
 
 ## Description
-Alien Server is the **world's largest collection** of LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disable BIOS, schematics, boardviews, repair guides, datasheets, mainboard HD photos, and software.  
+Alien Server is the **world's largest collection** of BIOS, schematics, boardviews, repair guides, datasheets, mainboard HD photos, Onboard RAM Disable BIOS, Coil Impedance , and software.
 It also provides tools for **BIOS editing, modding, patching, encrypting, decrypting, and unlocking**.
 
 ---
