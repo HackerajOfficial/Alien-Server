@@ -27,6 +27,7 @@ Alien Server is World Largest LCD/LED BIOS, EC BIOS, Main BIOS, Onboard RAM Disa
     * [x] Normal FCFD Unlocking / Factory Mode BIOS / MPM UNlock - Generally, It is used for to Unlock 8FC8 Desktop Motherboard
     * [x] Alienware, Precision Unlocking
     * [x] Dell latest Unlocking
+       * [ ] Dell Pro x Plus
   * [x] ST_Fix
   * [x] Logo Hang / Freeze
   * [x] TPM
