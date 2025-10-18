@@ -6,6 +6,7 @@ AMITSESetup Decryptor & Unlocker Coded By Hackeraj. It supports Boot Password, a
 ## Features
 - ***Dell Password Decryption without Suffix***
   * [x] Dell Password can be decrypt which Dell has no any suffix using [AMITSESetup Decryptor & Unlocker](https://alien.raaz.info.np/server/unlock/AMITSESetup/).
+     * [x] Dell tablet Venue 8 pro 20cm
 - ***Asus***
   * [x] A lot of Asus machines use a standard AMI implementation, and BIOS password can be decoded or cleared from AMITSESetup NVRAM variable.
   * [x] Master codes for some dates also exist.
